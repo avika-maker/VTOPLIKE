@@ -141,10 +141,18 @@ Screenshots:
 All screenshots needed will go into a screenshots/ directory in your repository. The placeholders below specify what to capture.
 
 1) JDK installation check (java -version).
+   <img width="1365" height="691" alt="Screenshot 2025-09-25 173718" src="https://github.com/user-attachments/assets/d5fea4cb-8799-4b05-b513-72d3378dad12" />
+
 
 2) Eclipse project setup and run configuration.
+   <img width="487" height="889" alt="image" src="https://github.com/user-attachments/assets/d0f72504-47ac-4af4-bffc-a804dd8f6336" />
+
 
 3) Running program (main menu and sample operations).
+   <img width="439" height="937" alt="image" src="https://github.com/user-attachments/assets/c25fa48b-8099-4470-994e-2749a25d9cd6" />
+
 
 4) Exports/Backups folder structure.
+   <img width="489" height="884" alt="image" src="https://github.com/user-attachments/assets/860c1787-83ca-4d52-8a58-6ad367b4f5ac" />
+
   
